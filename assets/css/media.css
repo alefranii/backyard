@@ -1,0 +1,21 @@
+@media (min-width: 535px) and (max-width: 824px){
+	.flex-container.main{
+	flex-direction: column;
+	}
+
+	.text,
+	.formulario{
+	width: 90%;
+	}
+}
+
+@media (min-width: 200px) and (max-width: 534px){
+	.flex-container.main{
+	flex-direction: column;
+	}
+
+	.text,
+	.formulario{
+	width: 90%;
+	}
+}

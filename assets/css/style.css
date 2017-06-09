@@ -1,0 +1,21 @@
+.flex-container{
+	display: flex;
+}
+
+.text-uppercase{
+	text-transform: uppercase;
+}
+
+.flex-container.main{
+	flex-direction: row;
+	justify-content: space-around;
+}
+
+.text,
+.formulario{
+	width: 40%;
+}
+
+.formulario{
+	flex-direction: column;
+}
